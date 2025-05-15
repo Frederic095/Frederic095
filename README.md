@@ -12,7 +12,7 @@
 ### <h2 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me: </h2>
 - 💼​ I’m currently looking for a Fulltime job as a  **Fullstack developer**
 
-- 🌱 I’m currently learning **Angular and SpringBoot**
+- 🌱 I’m currently learning **Jenkins**
  
 
 - ⚡ Fun fact **I like gaming 🎮​**
