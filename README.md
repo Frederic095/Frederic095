@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **Jenkins**
  
 
-- ⚡ Fun fact **I like gaming 🎮​**
+- ⚡ Fun fact **I like gaming 🎮 and rock climbing​ (bouldering)🧗**
 
 <h2 align="center"> 📫 How to reach me : </h2>
 <p align="center">
