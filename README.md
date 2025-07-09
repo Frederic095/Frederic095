@@ -19,7 +19,7 @@
 
 <h2 align="center"> 📫 How to reach me : </h2>
 <p align="center">
-<a href="https://linkedin.com/in/www.linkedin.com/in/frederic-nguyen05" target="blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="www.linkedin.com/in/frederic-nguyen05"  /></a>
+<!-- <a href="https://linkedin.com/in/www.linkedin.com/in/frederic-nguyen05" target="blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="www.linkedin.com/in/frederic-nguyen05"  /></a> -->
 <a href="frederic.nguyen095@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="frederic.nguyen095@gmail.com"  /></a>
 </p>
 
