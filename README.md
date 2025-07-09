@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Fullstack Developer from France.</h3>
 
 
-<p>I'm a young and passionate fullstack developer with a love for building clean, efficient, and user-friendly applications. This repository showcases some of my personal projects and experiments, where I learn, build, and grow as a developer. I'm always open to feedback and collaboration </p>
+<p>I'm a passionate fullstack developer with a love for building clean, efficient, and user-friendly applications. This repository showcases some of my personal projects and experiments, where I learn, build, and grow as a developer. I'm always open to feedback and collaboration </p>
   <p> — feel free to explore and reach out 👍​!</p>
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"></p>
   
