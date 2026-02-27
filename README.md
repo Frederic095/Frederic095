@@ -10,12 +10,12 @@
 
 ---
 ### <h2 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me: </h2>
-- 💼​ I’m currently looking for a Fulltime job as a  **Fullstack developer**
+<!-- - 💼​ I’m currently looking for a Fulltime job as a  **Fullstack developer** -->
 
-- 🌱 I’m currently learning **Jenkins**
+- 🌱 I’m currently learning **Mulesoft**
  
 
-- ⚡ Fun fact **I like gaming 🎮 and rock climbing​ (bouldering)🧗**
+- ⚡ Fun fact : **I like gaming 🎮 and rock climbing​ (bouldering)🧗**
 
 <h2 align="center"> 📫 How to reach me : </h2>
 <p align="center">
